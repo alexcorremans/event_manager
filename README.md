@@ -1,4 +1,4 @@
-This is a tutorial I followed to become more familiar with the following:
+This is a tutorial I followed to become more familiar with:
 - file manipulation
 - reading content from a CSV file and transforming it into a standardized format
 - using data to contact a remote service (in this case, Google's Civic Information API through the Google API Client Gem)
